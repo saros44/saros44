@@ -12,5 +12,5 @@
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   
-<img align="center" src="https://i.imgur.com/5A22MNp.gif" width="400" height="250" alt="Dog using laptop">
+<img align="center" src="https://i.imgur.com/5A22MNp.gif" width="300" height="200" alt="Dog using laptop">
 
