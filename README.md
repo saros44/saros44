@@ -8,7 +8,7 @@
 
 <div style="display: flex; align-items: center;">
   <!-- Dog GIF on the left -->
-  <img src="https://i.imgur.com/5A22MNp.gif" width="200" height="150" alt="Dog using laptop">
+  <img src="https://i.imgur.com/5A22MNp.gif" width="300" height="150" alt="Dog using laptop">
   
   <!-- Language Badges next to GIF -->
   <div style="margin-left: 20px;">
