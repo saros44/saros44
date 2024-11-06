@@ -19,5 +19,5 @@
   </div>
 
   <!-- Dog GIF with a 50px margin to the left -->
-  <img src="https://i.imgur.com/5A22MNp.gif" width="200" height="150" alt="Dog using laptop" style="margin-left: 20px;">
+  <img src="https://i.imgur.com/5A22MNp.gif" width="200" height="150" alt="Dog using laptop" ">
 </div>
