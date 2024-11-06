@@ -17,7 +17,4 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React Badge">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge">
   </div>
-
-  <!-- Dog GIF with a 50px margin to the left -->
-  <img src="https://i.imgur.com/5A22MNp.gif" width="200" height="150" alt="Dog using laptop" style="margin-left: 50px;">
 </div>
