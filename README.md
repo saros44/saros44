@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Sudhesh Shrestha.
 - 👨🏻‍💻 I’m currently working on a Java project.
 - 💬 Ask me anything, but I may be slow to respond.
-- 📫 How to reach me: sarojxcrestha44@gmail.com
+- 📫 How to reach me: sudheshshrestha4@gmail.com
 - 😄 Pronouns: he/his/him
 - 😵‍💫 Fun fact: I look confused.
 - 🖥️ Languages & Technologies: Trying to cope up with these
