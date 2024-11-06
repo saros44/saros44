@@ -7,11 +7,8 @@
 - 🖥️ Languages & Technologies: Trying to cope up with these
 
 <div style="display: flex; align-items: center;">
-  <!-- Dog GIF on the left -->
-  <img src="https://i.imgur.com/5A22MNp.gif" width="200" height="150" alt="Dog using laptop">
-  
-  <!-- Language Badges next to GIF -->
-  <div style="margin-left: 20px;">
+  <!-- Language Badges on the left -->
+  <div>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML Badge">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS Badge">
     <img src="https://img.shields.io/badge/JavaScript-ffff00?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge">
@@ -19,4 +16,7 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot Badge">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React Badge">
   </div>
+
+  <!-- Dog GIF with a 50px margin to the left -->
+  <img src="https://i.imgur.com/5A22MNp.gif" width="200" height="150" alt="Dog using laptop" style="margin-left: 50px;">
 </div>
