@@ -12,4 +12,5 @@
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Dog using laptop](https://i.imgur.com/5A22MNp.gif)
+<img src="https://i.imgur.com/5A22MNp.gif" width="200" height="150" alt="Dog using laptop">
 
