@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/JavaScript-ffff00?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java Badge">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot Badge">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React Badge">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge">
   </div>
 </div>
